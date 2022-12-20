@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75659081588",
+    "project_id": "bloc-eadea",
+    "storage_bucket": "bloc-eadea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75659081588:android:c4e2d3914d00010c551e21",
+        "android_client_info": {
+          "package_name": "com.example.add_and_retrieve_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75659081588-008qp9bde3us55gkslblvl5nsoml2hrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgg62S589vQJCeTJv9Q3xBDOrvNYifNYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75659081588-008qp9bde3us55gkslblvl5nsoml2hrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
